@@ -1,0 +1,12 @@
+# Arsip / file mati
+*.zip
+
+# File editor & OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# File sementara / log
+*.log
+*.tmp
